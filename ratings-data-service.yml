@@ -1,0 +1,3 @@
+greeting: Hello Rating
+server:
+  port: 8083
