@@ -1,1 +1,3 @@
 greeting: hello world
+server:
+  port: 8888
